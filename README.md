@@ -7,7 +7,7 @@ Abstract
 Наиболее редким - значительные суммы.
 
 Существуют также особые комбинации, запускающие дополнительную (или - **бонус**) игру.
-Одной из разновидностей таких игр является **big-cash**. Check out video:
+Одной из разновидностей таких игр является **big-cash**. См. видео:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tWojSuoJaYQ&t=45s
 " target="_blank"><img src="http://img.youtube.com/vi/tWojSuoJaYQ/0.jpg" 
